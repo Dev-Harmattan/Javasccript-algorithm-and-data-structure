@@ -1,0 +1,2 @@
+This is actually use Object/Sets to collect values/frequencies of values.
+This can often avoid the nested loop or O(N^2) operations with array / string.
